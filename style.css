@@ -1,0 +1,26 @@
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    height: 75px;
+}
+
+body {
+    background-image: url("https://cdn.wallpaperdirect.com/asset/img/product/163416/tiled/graham-and-brown-bamboo-texture-green-wallpaper-tiled-163416.jpg")
+}
+
+h1 {
+    max-width: 600px;
+  margin-right: 0 auto; 
+}
+
+header { 
+
+}
+title {
+    margin-right: 20px;
+}
